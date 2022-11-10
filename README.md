@@ -3,11 +3,11 @@ All Copyright By SHEX WLAT
 
 <img src = "https://cdn.discordapp.com/avatars/824261211364393050/ebb475de773e7225374ff8d53e8e2e56.png?size=2048"></div>
 
-Best Account Streaming Project V13  
+Best Security-Bit Project V16  
 Dont Forget Give 🌟 Project And Thank You All
 
 # How To Use
-Just Open ``config.json`` file and types tells you all the information how to use project
+Just Open ``config.json`
 
 
 
