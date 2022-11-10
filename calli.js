@@ -129,7 +129,7 @@ calli.on("message", async message => {
 \`${prefix}punishment\`
 
 **Links**
-[Support](https://discord.gg/2XfWseYDWJ) - [Invite](https://discord.com/api/oauth2/authorize?client_id=${calli.user.id}&permissions=8&scope=bot) - [Website](https://security-bot4415.glitch.me/)
+[Support](https://discord.gg/MRrStgspMv) - [Invite](https://discord.com/api/oauth2/authorize?client_id=901026586571177984&permissions=8&scope=bot) - [Website](https://discord.gg/MRrStgspMv)
       
       
       `);
