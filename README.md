@@ -7,7 +7,7 @@ Best Security-Bit Project V16
 Dont Forget Give 🌟 Project And Thank You All
 
 # How To Use
-Just Open ``config.json`
+Just Open `Calli.js
 
 
 
