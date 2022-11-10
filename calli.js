@@ -57,9 +57,9 @@ calli.on("message", message => {
       .setImage(`https://media.discordapp.net/attachments/829751738717306920/835146132023279616/image0.png`)
       .setDescription(`
 👑 OwnerCode 
-(Calli#0001,AMxSakran^#3799)
+(WLAT#7987,SHEX WLAT#7987)
 🤖 Securitybots 
-(Anti Vandalism#6064)
+(Anti SHEX WLAT)
       `)
       .setThumbnail(`https://media.discordapp.net/attachments/829751738717306920/835145114519208017/image0.gif`)
     message.channel.send({ embed });
