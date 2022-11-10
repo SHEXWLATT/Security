@@ -1,7 +1,7 @@
 # Security-Bit-V16
 All Copyright By SHEX WLAT
 
-<img src = "https://cdn.discordapp.com/avatars/841245687533535242/23ca80ab6d991de74b22f4a348a833b8.webp?size=2048"></div>
+<img src = "https://cdn.discordapp.com/avatars/824261211364393050/ebb475de773e7225374ff8d53e8e2e56.png?size=2048"></div>
 
 Best Account Streaming Project V13  
 Dont Forget Give 🌟 Project And Thank You All
